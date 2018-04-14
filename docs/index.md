@@ -1,14 +1,14 @@
 # Enigmatica 2
 「Enigmatica 2」はMinecraft Pc（Java）版のMODパックです。
-https://minecraft.curseforge.com/projects/enigmatica2
+[https://minecraft.curseforge.com/projects/enigmatica2](https://minecraft.curseforge.com/projects/enigmatica2)
 
 ## 導入方法1
 導入方法1では、Twitch（ゲーム特化型動画配信サービス）アプリが必要です。下記のURLからダウンロードしてインストールしてください。
-https://app.twitch.tv/download
+[https://app.twitch.tv/download](https://app.twitch.tv/download)
 
 また、Twitchアプリを使用するにはアカウントが必要になります。
-まだ取得していない場合は、下記のURLの右上にある「登録」をクリックして取得してください。
-https://www.twitch.tv/
+まだ取得していない場合は、下記のURLの右上にある「登録」をクリックして取得してください。  
+[https://www.twitch.tv/](https://www.twitch.tv/)
 
 Twitchアプリを起動し、Modsタブを開きます。
 ![twitchui_2018-04-14_13-38-49](https://user-images.githubusercontent.com/1085968/38764400-3c84b8e6-3fe9-11e8-9ca5-b844da8f221c.png)
@@ -38,4 +38,35 @@ Twitchアプリからマインクラフトの設定を行いたい場合、Twitc
 ここでは解像度や、使用メモリなど様々な設定が行えますが、「Enigmatica 2」を遊ぶ場合、4GB以上のメモリが必要になるので、必ず設定しておきましょう。
 
 
+## 導入方法2
+Twitchアプリを導入したくない場合は、この方法を使用してください。
+まず、MODパックのデータをZIP化したファイルが必要になります。
 
+下記のURLより、Discordサーバーに接続してください。
+[https://discord.gg/Q54en](https://discord.gg/Q54en)
+
+ここに、MODデータへリンクが貼られています。
+
+ダウンロードが完了したら、まずマインクラフトランチャーを起動し、新しいプロファイルを作成します。
+
+![minecraft_2018-04-14_14-09-58](https://user-images.githubusercontent.com/1085968/38764624-a44387ce-3fed-11e8-8cdb-ad9b172d182b.png)
+
+新規作成をクリックし、マインクラフトのバージョンを選択します。
+バージョンは1.12.2、Forgeは14.23.2.2611以上です。
+
+![code_2018-04-14_14-11-34](https://user-images.githubusercontent.com/1085968/38764631-d1a6764a-3fed-11e8-9ff3-7b18c1e66cda.png)
+
+
+### Forgeのバージョン
+導入しているForgeのバージョンが、「14.23.2.2611」以上であるかどうかを確認してください。
+バージョンが古い場合は、再度下記のサイトからForgeをダウンロードし、導入してください。
+[https://files.minecraftforge.net/](https://files.minecraftforge.net/)
+
+
+### ゲームディレクトリ
+場所はどこでも構いませんが、他のデータを上書きしないようなフォルダを作成し、設定してください。
+このフォルダはのちのち使用するので覚えておきましょう。
+
+### JVMの引数
+ここで使用メモリの設定を行います。下記の設定を入力してください。
+``-Xms4G -Xmx4G``

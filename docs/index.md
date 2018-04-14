@@ -120,7 +120,7 @@ Server Addressの部分に「kouta.tk」と入力します。
 
 ## アップデート方法
 ### Twitchアプリの場合
-1. Modsタブの「マイModパック」から、「Enigmatica 2」を選び、画像位置のダウンロードボタンをクリックします。
+1. Modsタブの「マイModパック」から、「Enigmatica 2」を選び、画像位置のダウンロードボタンをクリックします。  
 ![twitchui_2018-04-14_18-44-37](https://user-images.githubusercontent.com/1085968/38766917-ff201dda-4013-11e8-84cd-1c981cb3889b.png)
 
 自動的にアップデートされます。

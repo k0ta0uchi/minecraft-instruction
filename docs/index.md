@@ -65,13 +65,13 @@ Twitchアプリを導入したくない場合は、この方法を使用して�
 ![minecraft_2018-04-14_14-09-58](https://user-images.githubusercontent.com/1085968/38764624-a44387ce-3fed-11e8-8cdb-ad9b172d182b.png)
 
 新規作成をクリックし、マインクラフトのバージョンを選択します。  
-バージョンは1.12.2、Forgeは14.23.2.2611以上です。
+バージョンは1.12.2、Forgeは14.23.2.2645以上です。
 
 ![code_2018-04-14_14-11-34](https://user-images.githubusercontent.com/1085968/38764631-d1a6764a-3fed-11e8-9ff3-7b18c1e66cda.png)
 
 
 ### Forgeのバージョン
-導入しているForgeのバージョンが、「14.23.2.2611」以上であるかどうかを確認してください。  
+導入しているForgeのバージョンが、「14.23.2.2645」以上であるかどうかを確認してください。  
 バージョンが古い場合は、再度下記のサイトからForgeをダウンロードし、導入してください。  
 [https://files.minecraftforge.net/](https://files.minecraftforge.net/)
 

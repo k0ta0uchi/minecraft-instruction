@@ -9,7 +9,11 @@
 * ニコニココミュ: [Rフェイススタジオ](http://com.nicovideo.jp/community/co2576092)
 * YouTube: [Rフェイススタジオ](https://www.youtube.com/channel/UCDktbMSBDBmMp1k_DJGaY6A)
 * Twitch: [k0ta0uchi](https://www.twitch.tv/k0ta0uchi)  
-  
+
+# 目次
+* [導入方法1](##導入方法1)
+* [導入方法2](##導入方法2)
+* [アップデート方法](##アップデート方法)
 
 # Enigmatica 2
 「Enigmatica 2」はMinecraft PC（Java）版のMODパックです。
@@ -113,3 +117,17 @@ Server Addressの部分に「kouta.tk」と入力します。
 ![javaw_2018-04-14_14-41-15](https://user-images.githubusercontent.com/1085968/38764862-f2231a6e-3ff1-11e8-86d1-57e2ecc4c9a6.png)
 
 こんな感じで表示されていれば成功です！！ログインしてみましょう！！！
+
+## アップデート方法
+### Twitchアプリの場合
+1. Modsタブの「マイModパック」から、「Enigmatica 2」を選び、画像位置のダウンロードボタンをクリックします。
+![twitchui_2018-04-14_18-44-37](https://user-images.githubusercontent.com/1085968/38766917-ff201dda-4013-11e8-84cd-1c981cb3889b.png)
+
+自動的にアップデートされます。
+
+### Modデータをダウンロードする場合
+1. Discordサーバーの#howtoにダウンロードリンクが記載されているので、クリックしてダウンロードしてください。  
+2. 次に、Enigmatica 2用に作成したフォルダから、config, mods, scriptsフォルダを削除します。（クライアントMODを他に入れている場合は、退避しておいてください）
+3. ダウンロードしたzipファイルを解凍し、上書きしてください。
+4. 指定されたForgeをダウンロードし、インストールしてください。
+5. プロファイルの設定から指定バージョンのForgeを選択して、保存をクリックします。

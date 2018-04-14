@@ -3,7 +3,7 @@
 [https://minecraft.curseforge.com/projects/enigmatica2](https://minecraft.curseforge.com/projects/enigmatica2)
 
 ## 導入方法1
-導入方法1では、Twitch（ゲーム特化型動画配信サービス）アプリが必要です。下記のURLからダウンロードしてインストールしてください。
+導入方法1では、Twitch（ゲーム特化型動画配信サービス）アプリが必要です。下記のURLからダウンロードしてインストールしてください。  
 [https://app.twitch.tv/download](https://app.twitch.tv/download)
 
 また、Twitchアプリを使用するにはアカウントが必要になります。
@@ -68,5 +68,24 @@ Twitchアプリを導入したくない場合は、この方法を使用して�
 このフォルダはのちのち使用するので覚えておきましょう。
 
 ### JVMの引数
-ここで使用メモリの設定を行います。下記の設定を入力してください。
+ここで使用メモリの設定を行います。下記の設定を入力してください。  
 ``-Xms4G -Xmx4G``
+
+また、私が個人的に設定しているオプションは下記のとおりです。  
+``-Xms4G -Xmx4G -client -XX:MetaspaceSize=512M -XX:MaxMetaspaceSize=512M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:+AggressiveOpts -XX:+DisableExplicitGC -XX:+UseBiasedLocking -XX:+UseFastAccessorMethods -XX:+UseTLAB -XX:+UseLargePages -XX:-UseGCOverheadLimit -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=10``
+
+使用しているJavaのバージョンによっては使用できなかったりするので、適宜削除してください。
+
+設定を行ったら「保存」ボタンのクリックを忘れずに。私も何回か忘れてひどい目にあってます。
+    
+### MODデータの上書き
+ここまで設定できたらまず起動します。起動し終わったらマインクラフトを閉じます。  
+先程設定したゲームディレクトリを開きます。  
+DiscordサーバーからダウンロードしてきたMODデータを解凍します。  
+このとき、mods以下ではなく、設定したゲームディレクトリ以下で回答するようにしてください。mods以外のデータも含まれているためです。
+
+### 起動確認
+MODが200以上含まれるため、相当時間がかかります。起動開始したらコーヒーでも淹れに生きましょう。
+
+
+## マルチプレイに参加するには

@@ -2,7 +2,7 @@
 
 ■サーバー情報
 * サーバーURL: [kouta.tk](kouta.tk)  
-* Discordサーバー: [https://discord.gg/Q54en](https://discord.gg/Q54en)
+* Discordサーバー: [https://discord.gg/SAE7R](https://discord.gg/SAE7R)
 
 ■その他連絡先等
 * Twitter: [@k0ta0uchi](https://twitter.com/k0ta0uchi)

@@ -15,9 +15,9 @@
 * [導入方法2](##導入方法2)
 * [アップデート方法](##アップデート方法)
 
-# Roguelike Adventures and Dungeons
-「Roguelike Adventures and Dungeons」はMinecraft PC（Java）版のMODパックです。
-[https://minecraft.curseforge.com/projects/roguelike-adventures-and-dungeons](https://minecraft.curseforge.com/projects/roguelike-adventures-and-dungeons)
+# Enigmatica 2
+「Enigmatica 2」はMinecraft PC（Java）版のMODパックです。
+[https://minecraft.curseforge.com/projects/enigmatica2](https://minecraft.curseforge.com/projects/enigmatica2)
 
 ## 導入方法1
 導入方法1では、Twitch（ゲーム特化型動画配信サービス）アプリが必要です。下記のURLからダウンロードしてインストールしてください。  
@@ -36,12 +36,12 @@ Twitchアプリを起動し、Modsタブを開きます。
 ![twitchui_2018-04-14_13-41-09](https://user-images.githubusercontent.com/1085968/38764413-8336635c-3fe9-11e8-9d47-4546ca6735d6.png)
 
 
-MODパック一覧がずらーっと出てくるので、検索テキストボックスに「Roguelike Adventures and Dungeons」と入力します。一覧に「Roguelike Adventures and Dungeons」があるのでクリックするとインストールが開始されます。
+MODパック一覧がずらーっと出てくるので、検索テキストボックスに「Enigmatica 2」と入力します。一覧に「Enigmatica 2」があるのでクリックするとインストールが開始されます。
 
 先程のメニューから、マイModパックを選択すると、今導入しているModパック一覧が表示されます。
 ![twitchui_2018-04-14_13-44-19](https://user-images.githubusercontent.com/1085968/38764442-f5700946-3fe9-11e8-98f8-80b08aabe3e3.png)
 
-ここで「Roguelike Adventures and Dungeons」を選択し、再生をクリックすると導入された状態で起動します。
+ここで「Enigmatica 2」を選択し、再生をクリックすると導入された状態で起動します。
 
 ### マインクラフトの設定
 Twitchアプリからマインクラフトの設定を行いたい場合、Twitchアプリの左上のアイコンをクリックし、「ファイル」→「設定」と選択します。
@@ -52,7 +52,7 @@ Twitchアプリからマインクラフトの設定を行いたい場合、Twitc
 
 ![twitchui_2018-04-14_13-49-05](https://user-images.githubusercontent.com/1085968/38764477-d5317e20-3fea-11e8-830a-b91ff19c9412.png)
 
-ここでは解像度や、使用メモリなど様々な設定が行えますが、「Roguelike Adventures and Dungeons」を遊ぶ場合、2GB以上のメモリが必要になるので、必ず設定しておきましょう。
+ここでは解像度や、使用メモリなど様々な設定が行えますが、「Enigmatica 2」を遊ぶ場合、4GB以上のメモリが必要になるので、必ず設定しておきましょう。
 
 
 ## 導入方法2
@@ -60,7 +60,7 @@ Twitchアプリを導入したくない場合は、この方法を使用して�
 まず、MODパックのデータをZIP化したファイルが必要になります。
 
 下記のURLより、Discordサーバーに接続してください。  
-[https://discord.gg/86z4XFb](https://discord.gg/86z4XFb)
+[https://discord.gg/Q54en](https://discord.gg/Q54en)
 
 Discordサーバー内の#howtoテキストチャンネルに、MODデータへリンクが貼られています。
 
@@ -69,13 +69,13 @@ Discordサーバー内の#howtoテキストチャンネルに、MODデータへ�
 ![minecraft_2018-04-14_14-09-58](https://user-images.githubusercontent.com/1085968/38764624-a44387ce-3fed-11e8-8cdb-ad9b172d182b.png)
 
 新規作成をクリックし、マインクラフトのバージョンを選択します。  
-バージョンは1.12.2、Forgeは14.23.4.2705以上です。
+バージョンは1.12.2、Forgeは14.23.2.2645以上です。
 
 ![code_2018-04-14_14-11-34](https://user-images.githubusercontent.com/1085968/38764631-d1a6764a-3fed-11e8-9ff3-7b18c1e66cda.png)
 
 
 ### Forgeのバージョン
-導入しているForgeのバージョンが、「14.23.4.2705」以上であるかどうかを確認してください。  
+導入しているForgeのバージョンが、「14.23.2.2645」以上であるかどうかを確認してください。  
 バージョンが古い場合は、再度下記のサイトからForgeをダウンロードし、導入してください。  
 [https://files.minecraftforge.net/](https://files.minecraftforge.net/)
 
@@ -102,7 +102,7 @@ DiscordサーバーからダウンロードしてきたMODデータを解凍し�
 このとき、mods以下ではなく、設定したゲームディレクトリ以下で回答するようにしてください。mods以外のデータも含まれているためです。
 
 ### 起動確認
-MODが90以上含まれるため、相当時間がかかります。起動開始したらコーヒーでも淹れに生きましょう。
+MODが200以上含まれるため、相当時間がかかります。起動開始したらコーヒーでも淹れに生きましょう。
 
 
 ## マルチプレイに参加するには
@@ -120,13 +120,14 @@ Server Addressの部分に「kouta.tk」と入力します。
 
 ## アップデート方法
 ### Twitchアプリの場合
-1. Modsタブの「マイModパック」から、「Roguelike Adventures and Dungeons」を選び、画像位置のダウンロードボタンをクリックします。  
+1. Modsタブの「マイModパック」から、「Enigmatica 2」を選び、画像位置のダウンロードボタンをクリックします。  
 ![twitchui_2018-04-14_18-44-37](https://user-images.githubusercontent.com/1085968/38766917-ff201dda-4013-11e8-84cd-1c981cb3889b.png)
 
 自動的にアップデートされます。
 
 ### Modデータをダウンロードする場合
 1. Discordサーバーの#howtoにダウンロードリンクが記載されているので、クリックしてダウンロードしてください。  
-2. ダウンロードしたzipファイルを解凍し、上書きしてください。
-3. 指定されたForgeをダウンロードし、インストールしてください。
-4. プロファイルの設定から指定バージョンのForgeを選択して、保存をクリックします。
+2. 次に、Enigmatica 2用に作成したフォルダから、config, mods, scriptsフォルダを削除します。（クライアントMODを他に入れている場合は、退避しておいてください）
+3. ダウンロードしたzipファイルを解凍し、上書きしてください。
+4. 指定されたForgeをダウンロードし、インストールしてください。
+5. プロファイルの設定から指定バージョンのForgeを選択して、保存をクリックします。

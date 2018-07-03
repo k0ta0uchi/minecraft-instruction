@@ -52,7 +52,7 @@ Twitchアプリからマインクラフトの設定を行いたい場合、Twitc
 
 ![twitchui_2018-04-14_13-49-05](https://user-images.githubusercontent.com/1085968/38764477-d5317e20-3fea-11e8-830a-b91ff19c9412.png)
 
-ここでは解像度や、使用メモリなど様々な設定が行えますが、「Roguelike Adventures and Dungeons」を遊ぶ場合、2GB以上のメモリが必要になるので、必ず設定しておきましょう。
+ここでは解像度や、使用メモリなど様々な設定が行えますが、「Roguelike Adventures and Dungeons」を遊ぶ場合、4GB以上のメモリを推奨するので、必ず設定しておきましょう。
 
 
 ## 導入方法2
